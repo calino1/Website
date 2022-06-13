@@ -1,0 +1,55 @@
+.background{
+    background-image: url("../assets/images/financebg.jpg");
+    background-size: auto;
+}
+
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+
+.larger{
+    font-size: larger;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+.italic{
+    font-size:medium;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.story{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.indextext{
+    font-size: larger;
+    color: white;
+    font-weight: bolder;
+}
+
+.indextextnormal{
+    font-size:large;
+    font-weight: 500;
+}
+
+.link{
+    color: white;
+    text-decoration: underline;
+    font-weight: 800;
+    
+}
+
+.contact{
+    font-style: oblique;
+}
+
+.endpg{
+    color: white;
+    font-size: small;
+}
